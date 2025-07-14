@@ -236,6 +236,7 @@ GEM
       zeitwerk (~> 2.6)
     rainbow (3.1.1)
     rake (13.3.0)
+    rbtree (0.4.6)
     rdoc (6.14.2)
       erb
       psych (>= 4.0.0)
@@ -351,6 +352,7 @@ DEPENDENCIES
   propshaft
   puma (>= 5.0)
   rails (~> 8.0.2)
+  rbtree
   rubocop-rails-omakase
   selenium-webdriver
   solid_cable
